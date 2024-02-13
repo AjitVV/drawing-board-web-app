@@ -1,0 +1,30 @@
+.button {
+    display: block;
+    padding: 10px;
+}
+
+.action-panel {
+    position: absolute;
+    top: 30vh;
+}
+
+.shape-color-red {
+    background-color: red;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+}
+
+.shape-color-green {
+    background-color: green;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+}
+
+.shape-color-blue {
+    background-color: blue;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+}

@@ -1,0 +1,14 @@
+.board {
+    width: 100%;
+    background-color: lightyellow;
+    height: 92vh;
+}
+
+.board div {
+    float: right;
+}
+
+.board-svg-panel {
+    width: calc(100% - 10px);
+    height: inherit;
+}
